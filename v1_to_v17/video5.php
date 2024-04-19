@@ -1,6 +1,5 @@
 <?php
 
-
 class AppleDevice {
     public $ram;
     public $inch;
