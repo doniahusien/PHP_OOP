@@ -18,7 +18,6 @@ class AppleDevice extends MakeDevice
     }
 }
 
-
 $iphone8 = new AppleDevice();
 $iphone8->sayHallo();
 $iphone8->sayBye();

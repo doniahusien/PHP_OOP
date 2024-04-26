@@ -25,7 +25,6 @@ class Iphone extends MakeDevices
         }
 }
 
-
 class Ipad extends MakeDevices
 {
     public $owner;
