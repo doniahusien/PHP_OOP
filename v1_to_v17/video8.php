@@ -9,6 +9,7 @@ class AppleDevice {
     public function homePressed(){
         echo 'This Iphone ram is'.$this->ram;
     }
+    
     public function setOwnerName($owner){
         if(strlen($owner)<3){
             echo "owner can't be less than 3 chars";
