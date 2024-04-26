@@ -9,7 +9,6 @@ class AppleDevice {
         $this->ram = $r;
         $this->inch = $in;
         $this->color = $c;
-
     }
 
 }
