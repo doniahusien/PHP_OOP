@@ -9,7 +9,6 @@ class AppleDevice {
     const chip = 'A8';
     const OWNERNAME = 4;
 
-
     public function setOwnerName(){
         if(strlen($this->ownerName< self::OWNERNAME)<3){
             echo "owner can't be less than ".self::OWNERNAME." chars";
