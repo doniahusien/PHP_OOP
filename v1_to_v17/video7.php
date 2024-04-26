@@ -10,6 +10,7 @@ class AppleDevice {
     }
 }
 
+
 $iphone8 = new AppleDevice();
 $iphone8->ram = '3 GB';
 $iphone8->inch = '6 Inch';
