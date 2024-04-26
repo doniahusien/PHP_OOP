@@ -37,7 +37,6 @@ $sony->changeSpace("7GB", "7Inch", "blue");
 $sony->camera = "25 MB";
 $sony->sayhello("sony");
 
-
 echo "<pre>";
 var_dump($sony);
 echo "</pre>";
