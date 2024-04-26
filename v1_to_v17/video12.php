@@ -17,6 +17,7 @@ class AppleDevice {
 
 }
 
+
 $iphone8 = new AppleDevice();
 $iphone8->changeLock("862003");
 
